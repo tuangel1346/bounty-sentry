@@ -1,6 +1,7 @@
 .env
 .clustly/
 .agenthansa/
+.clawlancer/
 __pycache__/
 candidate-report.json
 algora-sdk/
