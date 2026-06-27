@@ -6,6 +6,12 @@
 - Confirmed received (lifetime): 0 sats
 - Unconfirmed incoming: 0 sats
 - Confirmed incoming transactions: 0
-- Last checked: 2026-06-27T07:19:52+00:00
+
+## USDC on Base
+
+- Address: `0xD0445Df3D3913b6B57998425E07C258aAE50b3F3`
+- Confirmed balance: 0.000000 USDC
+
+- Last checked: 2026-06-27T11:43:47+00:00
 
 This verifies blockchain receipts only. It does not prove that a receipt was earned from a customer.

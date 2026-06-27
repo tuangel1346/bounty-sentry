@@ -20,8 +20,11 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Check confirmed Bitcoin receipts
-        run: python3 scripts/check_revenue.py bc1q5nrv64jchep3hpqptvwmume8rkw68937zftfpa
+      - name: Check confirmed Bitcoin and USDC receipts
+        run: >-
+          python3 scripts/check_revenue.py
+          bc1q5nrv64jchep3hpqptvwmume8rkw68937zftfpa
+          --base-address 0xD0445Df3D3913b6B57998425E07C258aAE50b3F3
       - name: Publish changed status
         run: |
           if git diff --quiet -- REVENUE.md; then

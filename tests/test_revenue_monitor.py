@@ -22,3 +22,18 @@ class RevenueMonitorTests(unittest.TestCase):
         report = render("bc1test", data, dt.datetime(2026, 6, 27, tzinfo=dt.timezone.utc))
         self.assertIn("CONFIRMED RECEIPT DETECTED", report)
         self.assertIn("12,345 sats", report)
+
+    def test_confirmed_usdc_balance_is_reported(self):
+        data = {
+            "chain_stats": {"funded_txo_sum": 0, "funded_txo_count": 0},
+            "mempool_stats": {"funded_txo_sum": 0},
+        }
+        report = render(
+            "bc1test",
+            data,
+            dt.datetime(2026, 6, 27, tzinfo=dt.timezone.utc),
+            "0x1234",
+            1_250_000,
+        )
+        self.assertIn("CONFIRMED RECEIPT DETECTED", report)
+        self.assertIn("1.250000 USDC", report)
