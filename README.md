@@ -8,6 +8,7 @@ It uses Python's standard library, makes read-only GitHub API requests, and neve
 touches a wallet.
 
 See the automatically refreshed [current bounty report](REPORT.md).
+Confirmed Bitcoin receipts are tracked separately in [REVENUE.md](REVENUE.md).
 
 ## Quick start
 

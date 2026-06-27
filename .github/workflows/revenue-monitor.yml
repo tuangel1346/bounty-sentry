@@ -1,0 +1,34 @@
+name: monitor confirmed revenue
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: revenue-monitor
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Check confirmed Bitcoin receipts
+        run: python3 scripts/check_revenue.py bc1q5nrv64jchep3hpqptvwmume8rkw68937zftfpa
+      - name: Publish changed status
+        run: |
+          if git diff --quiet -- REVENUE.md; then
+            exit 0
+          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add REVENUE.md
+          git commit -m "chore: update confirmed revenue status"
+          git push
