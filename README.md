@@ -7,6 +7,8 @@ assignees, high competition, and bounty-farm naming patterns.
 It uses Python's standard library, makes read-only GitHub API requests, and never
 touches a wallet.
 
+See the automatically refreshed [current bounty report](REPORT.md).
+
 ## Quick start
 
 ```bash
