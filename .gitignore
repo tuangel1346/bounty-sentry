@@ -1,0 +1,5 @@
+.env
+__pycache__/
+candidate-report.json
+algora-sdk/
+bounty-sxt/
