@@ -32,8 +32,10 @@ read the bounty terms and obtain assignment before doing substantial work.
 
 I offer a manual due-diligence report for a GitHub bounty: competition mapping,
 payment-history checks, scope review, and a go/no-go recommendation. Price:
-**USD 25 equivalent in BTC**, agreed before work begins. Open an issue in this
-repository to request one.
+**USD 25 in USDC, or the equivalent in BTC**, agreed before work begins. Open
+an issue in this repository to request one.
+
+USDC on Base: [secure payment link](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_ibN5WeuUsrYJwC1f5no12K5t)
 
 BTC: `bc1q5nrv64jchep3hpqptvwmume8rkw68937zftfpa`
 
