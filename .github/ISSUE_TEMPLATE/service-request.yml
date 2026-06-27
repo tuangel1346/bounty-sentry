@@ -1,0 +1,41 @@
+name: Paid due-diligence request
+description: Request a manual bounty risk and competition report
+title: "[Service request] "
+labels:
+  - service-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not post passwords, API tokens, private keys, seed phrases, or personal identity documents.
+  - type: input
+    id: bounty_url
+    attributes:
+      label: Bounty URL
+      description: Public URL of the issue or bounty listing to review.
+      placeholder: https://github.com/owner/repository/issues/123
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Decision you need to make
+      description: What would make this opportunity worthwhile or unacceptable for you?
+    validations:
+      required: true
+  - type: dropdown
+    id: payment
+    attributes:
+      label: Payment
+      options:
+        - I can pay USD 25 equivalent in BTC after scope confirmation
+        - I am only asking whether the service fits
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety acknowledgement
+      options:
+        - label: I have not included secrets or private personal information.
+          required: true
