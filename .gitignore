@@ -2,6 +2,7 @@
 .clustly/
 .agenthansa/
 .clawlancer/
+.agentjob/
 __pycache__/
 candidate-report.json
 algora-sdk/
