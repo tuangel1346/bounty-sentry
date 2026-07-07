@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| -13 | $100 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/415) | 1 comments | repository is under 180 days old |
-| -17 | $100 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/417) | 2 comments | repository is under 180 days old |
 | -49 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/16) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/27) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/28) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | $100 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/436) | 6 comments | repository is under 180 days old, issue already assigned |
-| -61 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/26) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/37) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/39) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/41) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -66 | $100 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/438) | 8 comments | repository is under 180 days old, issue already assigned |
-| -68 | $250 | [xevrion-v2/agent-playground](https://github.com/xevrion-v2/agent-playground/issues/2207) | 30 comments | repository is under 180 days old, high competition |
-| -69 | Unverified | [iii123iii/Crystal-PDF](https://github.com/iii123iii/Crystal-PDF/issues/3) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -73 | Unverified | [iii123iii/Crystal-PDF](https://github.com/iii123iii/Crystal-PDF/issues/2) | 6 comments | fewer than 10 stars, repository is under 180 days old |
-| -78 | Unverified | [ziztigr288c/zap](https://github.com/ziztigr288c/zap/issues/1) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -113 | $16 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/97) | 37 comments | repository is under 180 days old, high competition |
-| -114 | Unverified | [coopfinance/coopfin-api](https://github.com/coopfinance/coopfin-api/issues/6) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -121 | $20 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/53) | 39 comments | repository is under 180 days old, high competition |
-| -150 | $10 | [Nexussyn/ai-growth-engine](https://github.com/Nexussyn/ai-growth-engine/issues/4) | 19 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -175 | $100 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/442) | 29 comments | repository is under 180 days old, issue already assigned, high competition |
+| -54 | Unverified | [coopfinance/coopfin-contracts](https://github.com/coopfinance/coopfin-contracts/issues/7) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [coopfinance/coopfin-contracts](https://github.com/coopfinance/coopfin-contracts/issues/6) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -57 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/28) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -57 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/27) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -65 | Unverified | [Build-Africa-DAO/baraza-protocol](https://github.com/Build-Africa-DAO/baraza-protocol/issues/26) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -78 | Unverified | [cocohub-mobileapp/cocohub-main](https://github.com/cocohub-mobileapp/cocohub-main/issues/29) | 7 comments | fewer than 10 stars, repository is under 180 days old |
+| -81 | Unverified | [iii123iii/Crystal-PDF](https://github.com/iii123iii/Crystal-PDF/issues/2) | 8 comments | fewer than 10 stars, repository is under 180 days old |
+| -99 | $25 | [manav8498/TentOfTrials](https://github.com/manav8498/TentOfTrials/issues/2) | 6 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
+| -110 | $50 | [Peter7896/TentOfTrials](https://github.com/Peter7896/TentOfTrials/issues/2) | 9 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
+| -118 | Unverified | [iii123iii/Crystal-PDF](https://github.com/iii123iii/Crystal-PDF/issues/3) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -126 | $0 | [Nexussyn/ai-growth-engine](https://github.com/Nexussyn/ai-growth-engine/issues/1) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -142 | $10 | [Nexussyn/ai-growth-engine](https://github.com/Nexussyn/ai-growth-engine/issues/2) | 17 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -144 | $45 | [jackjin1997/TentOfTrials](https://github.com/jackjin1997/TentOfTrials/issues/1) | 11 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old, high competition |
+| -144 | $50 | [jackjin1997/TentOfTrials](https://github.com/jackjin1997/TentOfTrials/issues/2) | 11 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old, high competition |
+| -146 | $10 | [Nexussyn/ai-growth-engine](https://github.com/Nexussyn/ai-growth-engine/issues/3) | 18 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -162 | $10 | [Nexussyn/ai-growth-engine](https://github.com/Nexussyn/ai-growth-engine/issues/4) | 22 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -214 | $5 | [Nexussyn/ai-growth-engine](https://github.com/Nexussyn/ai-growth-engine/issues/5) | 35 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -640 | $100 | [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto/issues/770) | 174 comments | repository is under 180 days old, high competition |
+| -1099 | $0 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/106) | 284 comments | repository is under 180 days old, high competition |
