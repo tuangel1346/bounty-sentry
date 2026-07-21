@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 76 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/312) | 1 comments | repository is under 180 days old |
-| 72 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/309) | 2 comments | repository is under 180 days old |
-| 68 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16275) | 3 comments | repository is under 180 days old |
-| 48 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16271) | 8 comments | repository is under 180 days old |
-| 39 | Unverified | [ritesh-1918/HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI/issues/3913) | 4 comments | repository is under 180 days old, issue already assigned |
-| 35 | Unverified | [ritesh-1918/HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI/issues/3910) | 5 comments | repository is under 180 days old, issue already assigned |
-| 35 | Unverified | [ritesh-1918/HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI/issues/3911) | 5 comments | repository is under 180 days old, issue already assigned |
-| 35 | Unverified | [ritesh-1918/HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI/issues/3912) | 5 comments | repository is under 180 days old, issue already assigned |
-| 3 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/535) | 13 comments | repository is under 180 days old, high competition |
-| -26 | $120 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1425) | 5 comments | repository is under 180 days old |
-| -26 | $150 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1421) | 5 comments | repository is under 180 days old |
-| -28 | Unverified | [mergeos-bounties/NeraJob](https://github.com/mergeos-bounties/NeraJob/issues/3) | 4 comments | repository is under 180 days old |
-| -55 | Unverified | [mergeos-bounties/PoseGuide](https://github.com/mergeos-bounties/PoseGuide/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/192) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/193) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -59 | $150 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1422) | 7 comments | repository is under 180 days old, issue already assigned |
-| -59 | Unverified | [mergeos-bounties/mt5-mcp](https://github.com/mergeos-bounties/mt5-mcp/issues/21) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -67 | $120 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1419) | 9 comments | repository is under 180 days old, issue already assigned |
-| -513 | Unverified | [mergeos-bounties/mergeos](https://github.com/mergeos-bounties/mergeos/issues/244) | 142 comments | repository is under 180 days old, high competition |
-| -844 | $100 | [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto/issues/770) | 225 comments | repository is under 180 days old, high competition |
+| 98 | $10,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/50612) | 3 comments | issue already assigned |
+| 83 | $1,500 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/50522) | 3 comments | issue already assigned |
+| 44 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16250) | 9 comments | repository is under 180 days old |
+| 16 | $3,000 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/87) | 0 comments | repository is a fork |
+| -14 | Unverified | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/84) | 0 comments | repository is a fork |
+| -15 | $333 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/83) | 1 comments | repository is a fork |
+| -19 | $300 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/81) | 2 comments | repository is a fork |
+| -22 | $10 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/88) | 2 comments | repository is a fork |
+| -25 | $500 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/82) | 4 comments | repository is a fork |
+| -41 | $500 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/65) | 8 comments | repository is a fork |
+| -49 | $500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/611) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | $500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/605) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -51 | $333 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/610) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -51 | $300 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/612) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -52 | $250 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/613) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | $150 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/606) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/194) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -55 | Unverified | [mergeos-bounties/BeeAR](https://github.com/mergeos-bounties/BeeAR/issues/10) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -145 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/156) | 20 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -173 | $10 | [Saiaaax/CyberNinja-Dojo](https://github.com/Saiaaax/CyberNinja-Dojo/issues/10) | 19 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old, high competition |
