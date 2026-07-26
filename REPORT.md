@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 60 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16275) | 5 comments | repository is under 180 days old |
-| 52 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16239) | 7 comments | repository is under 180 days old |
-| 52 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16238) | 7 comments | repository is under 180 days old |
-| 52 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16243) | 7 comments | repository is under 180 days old |
-| 7 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16242) | 12 comments | repository is under 180 days old, high competition |
-| 3 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16248) | 13 comments | repository is under 180 days old, high competition |
-| -14 | Unverified | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/284) | 1 comments | repository is a fork |
-| -15 | Unverified | [mergeos-bounties/HIRI](https://github.com/mergeos-bounties/HIRI/issues/16) | 1 comments | repository is under 180 days old |
-| -18 | Unverified | [mergeos-bounties/Lappa](https://github.com/mergeos-bounties/Lappa/issues/6) | 1 comments | repository is under 180 days old |
-| -18 | Unverified | [mergeos-bounties/Lappa](https://github.com/mergeos-bounties/Lappa/issues/5) | 1 comments | repository is under 180 days old |
-| -19 | Unverified | [mergeos-bounties/HIRI](https://github.com/mergeos-bounties/HIRI/issues/12) | 2 comments | repository is under 180 days old |
-| -22 | $5 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/275) | 3 comments | repository is a fork |
-| -30 | Unverified | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/279) | 5 comments | repository is a fork |
-| -38 | Unverified | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/286) | 7 comments | repository is a fork |
-| -46 | $800 | [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/11398) | 21 comments | bounty-farm naming pattern, repository is under 180 days old, high competition |
-| -58 | $10 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/277) | 27 comments | repository is under 180 days old, high competition |
-| -120 | $120 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1478) | 16 comments | repository is under 180 days old, issue already assigned, high competition |
-| -120 | $120 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1475) | 16 comments | repository is under 180 days old, issue already assigned, high competition |
-| -145 | $100 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/690) | 19 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -219 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/223) | 37 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| 11 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16250) | 11 comments | repository is under 180 days old, high competition |
+| -1 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16248) | 14 comments | repository is under 180 days old, high competition |
+| -30 | Unverified | [mergeos-bounties/Lappa](https://github.com/mergeos-bounties/Lappa/issues/11) | 4 comments | repository is under 180 days old |
+| -36 | $200 | [Iamgoofball/-tg-station](https://github.com/Iamgoofball/-tg-station/issues/241) | 7 comments | repository is a fork |
+| -46 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/226) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -57 | Unverified | [ThanhTrucSolutions/OriLang](https://github.com/ThanhTrucSolutions/OriLang/issues/56) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -60 | Unverified | [aashu91/robinhood-evm-mcp](https://github.com/aashu91/robinhood-evm-mcp/issues/4) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -63 | $120 | [zhangjiayang6835-cyber/ai-research](https://github.com/zhangjiayang6835-cyber/ai-research/issues/1490) | 8 comments | repository is under 180 days old, issue already assigned |
+| -67 | Unverified | [Vikingr2023/awesome-agent-bounties](https://github.com/Vikingr2023/awesome-agent-bounties/issues/223) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -68 | Unverified | [aashu91/robinhood-evm-mcp](https://github.com/aashu91/robinhood-evm-mcp/issues/1) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -70 | Unverified | [UID9622/lh-standard-adapter](https://github.com/UID9622/lh-standard-adapter/issues/3) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -76 | $250 | [xevrion-v2/agent-playground](https://github.com/xevrion-v2/agent-playground/issues/2207) | 32 comments | repository is under 180 days old, high competition |
+| -78 | Unverified | [UID9622/lh-standard-adapter](https://github.com/UID9622/lh-standard-adapter/issues/1) | 7 comments | fewer than 10 stars, repository is under 180 days old |
+| -82 | Unverified | [UID9622/lh-standard-adapter](https://github.com/UID9622/lh-standard-adapter/issues/4) | 8 comments | fewer than 10 stars, repository is under 180 days old |
+| -82 | Unverified | [UID9622/lh-standard-adapter](https://github.com/UID9622/lh-standard-adapter/issues/2) | 8 comments | fewer than 10 stars, repository is under 180 days old |
+| -86 | Unverified | [UID9622/lh-standard-adapter](https://github.com/UID9622/lh-standard-adapter/issues/5) | 9 comments | fewer than 10 stars, repository is under 180 days old |
+| -153 | Unverified | [0xddneto/AI-Proof-of-Us](https://github.com/0xddneto/AI-Proof-of-Us/issues/5) | 20 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -157 | Unverified | [0xddneto/AI-Proof-of-Us](https://github.com/0xddneto/AI-Proof-of-Us/issues/4) | 21 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -264 | $50 | [chouhanindustries/copperhead](https://github.com/chouhanindustries/copperhead/issues/66) | 54 comments | repository is under 180 days old, issue already assigned, high competition |
+| -881 | Unverified | [DanielIoni-creator/MyZubsterGateway](https://github.com/DanielIoni-creator/MyZubsterGateway/issues/29) | 196 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
