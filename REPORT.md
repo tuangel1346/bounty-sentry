@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 31 | $800 | [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty/issues/11398) | 8 comments | bounty-farm naming pattern, repository is under 180 days old |
-| -51 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/96) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | Unverified | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster/issues/17) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -55 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/105) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -55 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/97) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -59 | $3 | [Vikingr2023/awesome-agent-bounties](https://github.com/Vikingr2023/awesome-agent-bounties/issues/167) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -60 | $600 | [theselfish/SlopStation13](https://github.com/theselfish/SlopStation13/issues/5) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -63 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/104) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -66 | Unverified | [cocohub-mobileapp/cocohub-main](https://github.com/cocohub-mobileapp/cocohub-main/issues/46) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -67 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/60) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -70 | Unverified | [DanielIoni-creator/MyZubsterWeb](https://github.com/DanielIoni-creator/MyZubsterWeb/issues/2) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -74 | Unverified | [cocohub-mobileapp/cocohub-main](https://github.com/cocohub-mobileapp/cocohub-main/issues/51) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -74 | Unverified | [cocohub-mobileapp/cocohub-main](https://github.com/cocohub-mobileapp/cocohub-main/issues/50) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -82 | Unverified | [jahmeergnlt/traefik](https://github.com/jahmeergnlt/traefik/issues/1) | 8 comments | fewer than 10 stars, repository is under 180 days old |
-| -84 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/109) | 3 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -112 | Unverified | [mergeos-bounties/gazebo-mcp](https://github.com/mergeos-bounties/gazebo-mcp/issues/23) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -116 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/65) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -124 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/61) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -126 | Unverified | [MyZubster-Ecosystem/MyZubster-Marketplace](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/1) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -127 | $5 | [Vicentegg4212/sasmex-rss-bounty](https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| 76 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/682) | 1 comments | repository is under 180 days old |
+| 76 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/683) | 1 comments | repository is under 180 days old |
+| 76 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/684) | 1 comments | repository is under 180 days old |
+| 11 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16271) | 11 comments | repository is under 180 days old, high competition |
+| 3 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16251) | 13 comments | repository is under 180 days old, high competition |
+| -9 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16255) | 16 comments | repository is under 180 days old, high competition |
+| -9 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16249) | 16 comments | repository is under 180 days old, high competition |
+| -22 | Unverified | [Arrow-air/website](https://github.com/Arrow-air/website/issues/201) | 0 comments | fewer than 10 stars |
+| -29 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16248) | 21 comments | repository is under 180 days old, high competition |
+| -33 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16253) | 22 comments | repository is under 180 days old, high competition |
+| -38 | Unverified | [mergeos-bounties/NeraJob](https://github.com/mergeos-bounties/NeraJob/issues/8) | 7 comments | repository is under 180 days old |
+| -83 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/63) | 9 comments | fewer than 10 stars, repository is under 180 days old |
+| -106 | $10 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/277) | 39 comments | repository is under 180 days old, high competition |
+| -116 | Unverified | [mergeos-bounties/gazebo-mcp](https://github.com/mergeos-bounties/gazebo-mcp/issues/23) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -116 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/650) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -120 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/64) | 12 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -148 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/65) | 19 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -158 | Unverified | [MyZubster-Ecosystem/MyZubster-Marketplace](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/1) | 21 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -246 | $0 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/278) | 74 comments | repository is under 180 days old, high competition |
+| -649 | Unverified | [mergeos-bounties/mergeos](https://github.com/mergeos-bounties/mergeos/issues/244) | 176 comments | repository is under 180 days old, high competition |
