@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| -46 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/298) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [AbleeGod/stellar-drips-protocol](https://github.com/AbleeGod/stellar-drips-protocol/issues/4) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -76 | Unverified | [mergeos-bounties/BeeAR](https://github.com/mergeos-bounties/BeeAR/issues/19) | 10 comments | repository is under 180 days old, high competition |
-| -79 | Unverified | [mergeos-bounties/Lappa](https://github.com/mergeos-bounties/Lappa/issues/52) | 10 comments | repository is under 180 days old, high competition |
-| -83 | Unverified | [mergeos-bounties/HIRI](https://github.com/mergeos-bounties/HIRI/issues/93) | 12 comments | repository is under 180 days old, high competition |
-| -92 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1043) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1001) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1047) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1046) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1045) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/990) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -96 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1029) | 6 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -100 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1048) | 7 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -104 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1026) | 8 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -221 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/774) | 40 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -241 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/771) | 45 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -425 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1044) | 82 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
-| -433 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/649) | 93 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -461 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/335) | 100 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -737 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1012) | 160 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| 80 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/932) | 0 comments | repository is under 180 days old |
+| 72 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/933) | 2 comments | repository is under 180 days old |
+| -45 | Unverified | [mergeos-bounties/NeraJob](https://github.com/mergeos-bounties/NeraJob/issues/5) | 9 comments | repository is under 180 days old |
+| -46 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/313) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | Unverified | [DanielIoni-creator/I-ECO-01](https://github.com/DanielIoni-creator/I-ECO-01/issues/85) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | Unverified | [DanielIoni-creator/I-ECO-01](https://github.com/DanielIoni-creator/I-ECO-01/issues/60) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [DanielIoni-creator/I-ECO-01](https://github.com/DanielIoni-creator/I-ECO-01/issues/88) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway](https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/10) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [DanielIoni-creator/MyZubsterWeb](https://github.com/DanielIoni-creator/MyZubsterWeb/issues/55) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [DanielIoni-creator/MyZubster-App](https://github.com/DanielIoni-creator/MyZubster-App/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/310) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | Unverified | [DanielIoni-creator/MyZubster-Robot](https://github.com/DanielIoni-creator/MyZubster-Robot/issues/1) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -121 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/648) | 15 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -341 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/771) | 70 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -565 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/649) | 126 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -645 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/335) | 146 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -1037 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/338) | 235 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -1045 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/262) | 237 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -1053 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/274) | 239 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -1397 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/254) | 325 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
