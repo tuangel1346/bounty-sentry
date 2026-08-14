@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| -12 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16471) | 23 comments | high competition |
-| -46 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/336) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -46 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/335) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -61 | Unverified | [Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway](https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/9) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/330) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -72 | $600 | [theselfish/SlopStation13](https://github.com/theselfish/SlopStation13/issues/5) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -107 | $2 | [eirik-rune/runemap](https://github.com/eirik-rune/runemap/issues/39) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -109 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/859) | 12 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -114 | Unverified | [mergeos-bounties/ros2-mcp](https://github.com/mergeos-bounties/ros2-mcp/issues/45) | 12 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -129 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/870) | 17 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -133 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/927) | 18 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -317 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/686) | 64 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -337 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/683) | 69 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -337 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/682) | 69 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -349 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/684) | 72 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -353 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/664) | 73 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -477 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/773) | 104 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -589 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/771) | 132 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -633 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/772) | 143 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -1858 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 477 comments | repository is under 180 days old, high competition |
+| 67 | Unverified | [iv-org/invidious](https://github.com/iv-org/invidious/issues/5931) | 2 comments | issue already assigned |
+| 49 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1103) | 4 comments | None detected |
+| 10 | $2,000 | [thrixel/goal-to-game](https://github.com/thrixel/goal-to-game/issues/3) | 6 comments | repository is under 180 days old |
+| -20 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16471) | 25 comments | high competition |
+| -61 | $2,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/821) | 9 comments | fewer than 10 stars, repository is under 180 days old |
+| -70 | Unverified | [CinnamonFaldet48/cli](https://github.com/CinnamonFaldet48/cli/issues/3) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | Unverified | [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies/issues/43) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | Unverified | [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies/issues/41) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | Unverified | [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies/issues/40) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | Unverified | [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies/issues/39) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -123 | $2 | [eirik-rune/runemap](https://github.com/eirik-rune/runemap/issues/39) | 14 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -125 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/859) | 16 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -137 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/870) | 19 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -159 | Unverified | [MyZubster-Ecosystem/MyZubster-Marketplace](https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/33) | 15 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -357 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/686) | 74 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -369 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/683) | 77 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -369 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/682) | 77 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -381 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/684) | 80 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -385 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/664) | 81 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -2330 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 595 comments | repository is under 180 days old, high competition |
