@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 60 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1071) | 5 comments | repository is under 180 days old |
-| 24 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16472) | 14 comments | high competition |
-| -14 | $15,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/829) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -14 | $25,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/828) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -14 | $20,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -20 | $15,000 | [mister3ai-cmyk/ngp-sovereign-synesis-bounties](https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -23 | $2,000 | [thrixel/build-world](https://github.com/thrixel/build-world/issues/3) | 13 comments | repository is under 180 days old, high competition |
-| -26 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/861) | 4 comments | repository is under 180 days old |
-| -28 | $25,000 | [mister3ai-cmyk/ngp-sovereign-synesis-bounties](https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -32 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16471) | 28 comments | high competition |
-| -32 | $20,000 | [mister3ai-cmyk/ngp-sovereign-synesis-bounties](https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -66 | Unverified | [MyZubster-Ecosystem/MyZubster-Visual](https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/2) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -99 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/648) | 16 comments | repository is under 180 days old, high competition |
-| -111 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/927) | 19 comments | repository is under 180 days old, high competition |
+| 88 | Unverified | [iv-org/invidious](https://github.com/iv-org/invidious/issues/5957) | 3 comments | None detected |
+| -27 | $2,000 | [thrixel/build-world](https://github.com/thrixel/build-world/issues/3) | 14 comments | repository is under 180 days old, high competition |
+| -36 | $20,000 | [mister3ai-cmyk/ngp-sovereign-synesis-bounties](https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -36 | $25,000 | [mister3ai-cmyk/ngp-sovereign-synesis-bounties](https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -44 | $89 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/835) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -44 | $89 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/834) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -48 | $89 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/833) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster/issues/526) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies/issues/66) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [jflournoy/for-funsies](https://github.com/jflournoy/for-funsies/issues/65) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [AmeyOathout4/minio](https://github.com/AmeyOathout4/minio/issues/1) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [HarrieAlexandrowicz5/gorm](https://github.com/HarrieAlexandrowicz5/gorm/issues/1) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -81 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/14) | 2 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
+| -85 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/6) | 3 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
+| -97 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/18) | 6 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
+| -97 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/7) | 6 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
 | -131 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/870) | 24 comments | repository is under 180 days old, high competition |
-| -131 | $2 | [eirik-rune/runemap](https://github.com/eirik-rune/runemap/issues/39) | 16 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -171 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/647) | 34 comments | repository is under 180 days old, high competition |
-| -211 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/651) | 44 comments | repository is under 180 days old, high competition |
-| -247 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/590) | 53 comments | repository is under 180 days old, high competition |
-| -3318 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 842 comments | repository is under 180 days old, high competition |
+| -163 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/29) | 10 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -163 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/26) | 10 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -3362 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 853 comments | repository is under 180 days old, high competition |
