@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 80 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1221) | 0 comments | repository is under 180 days old |
-| 12 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16472) | 17 comments | high competition |
-| 6 | Unverified | [iflytek/domux](https://github.com/iflytek/domux/issues/20) | 0 comments | repository is under 180 days old |
-| -45 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/552) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -45 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/551) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -45 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/550) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/79) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/81) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/83) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -64 | Unverified | [Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway](https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/3) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -65 | Unverified | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster/issues/526) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -66 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/78) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -66 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/82) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -71 | Unverified | [MyZubster-Ecosystem/MyZubsterGateway](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1380) | 6 comments | fewer than 10 stars, repository is under 180 days old |
-| -82 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/76) | 8 comments | fewer than 10 stars, repository is under 180 days old |
-| -82 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/77) | 8 comments | fewer than 10 stars, repository is under 180 days old |
-| -86 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/75) | 9 comments | fewer than 10 stars, repository is under 180 days old |
-| -115 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/80) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -119 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/84) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -3530 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 895 comments | repository is under 180 days old, high competition |
+| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/865) | 2 comments | repository is under 180 days old |
+| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/864) | 2 comments | repository is under 180 days old |
+| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/863) | 2 comments | repository is under 180 days old |
+| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/860) | 2 comments | repository is under 180 days old |
+| -25 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/861) | 4 comments | repository is under 180 days old |
+| -49 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/7) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/8) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/9) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/10) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -98 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/859) | 16 comments | repository is under 180 days old, high competition |
+| -98 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/648) | 16 comments | repository is under 180 days old, high competition |
+| -110 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/927) | 19 comments | repository is under 180 days old, high competition |
+| -138 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/870) | 26 comments | repository is under 180 days old, high competition |
+| -170 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/647) | 34 comments | repository is under 180 days old, high competition |
+| -210 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/651) | 44 comments | repository is under 180 days old, high competition |
+| -374 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/664) | 85 comments | repository is under 180 days old, high competition |
+| -514 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/773) | 120 comments | repository is under 180 days old, high competition |
+| -606 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/771) | 143 comments | repository is under 180 days old, high competition |
+| -3570 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 905 comments | repository is under 180 days old, high competition |
