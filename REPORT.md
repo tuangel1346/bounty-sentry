@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/865) | 2 comments | repository is under 180 days old |
-| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/864) | 2 comments | repository is under 180 days old |
-| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/863) | 2 comments | repository is under 180 days old |
-| -17 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/860) | 2 comments | repository is under 180 days old |
-| -25 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/861) | 4 comments | repository is under 180 days old |
-| -49 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -49 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/7) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/8) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/9) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/10) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -98 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/859) | 16 comments | repository is under 180 days old, high competition |
-| -98 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/648) | 16 comments | repository is under 180 days old, high competition |
-| -110 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/927) | 19 comments | repository is under 180 days old, high competition |
-| -138 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/870) | 26 comments | repository is under 180 days old, high competition |
-| -170 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/647) | 34 comments | repository is under 180 days old, high competition |
-| -210 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/651) | 44 comments | repository is under 180 days old, high competition |
-| -374 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/664) | 85 comments | repository is under 180 days old, high competition |
-| -514 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/773) | 120 comments | repository is under 180 days old, high competition |
-| -606 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/771) | 143 comments | repository is under 180 days old, high competition |
-| -3570 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 905 comments | repository is under 180 days old, high competition |
+| 76 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1292) | 1 comments | repository is under 180 days old |
+| -6 | Unverified | [iflytek/domux](https://github.com/iflytek/domux/issues/20) | 3 comments | repository is under 180 days old |
+| -51 | Unverified | [mxx1111/spare-cycles](https://github.com/mxx1111/spare-cycles/issues/19) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -51 | Unverified | [mxx1111/spare-cycles](https://github.com/mxx1111/spare-cycles/issues/18) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -77 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/85) | 7 comments | fewer than 10 stars, repository is under 180 days old |
+| -77 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/721) | 8 comments | fewer than 10 stars, repository is under 180 days old |
+| -81 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/82) | 8 comments | fewer than 10 stars, repository is under 180 days old |
+| -97 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1220) | 16 comments | repository is under 180 days old, high competition |
+| -97 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1217) | 16 comments | repository is under 180 days old, high competition |
+| -105 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1214) | 18 comments | repository is under 180 days old, high competition |
+| -110 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/705) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -118 | Unverified | [HarrieAlexandrowicz5/gorm](https://github.com/HarrieAlexandrowicz5/gorm/issues/1) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -126 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/77) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -126 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/76) | 13 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -126 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/8) | 14 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -126 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/685) | 14 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -146 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/669) | 19 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -162 | Unverified | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster/issues/526) | 22 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -162 | Unverified | [RealMiLyfe/MiLyfe-Platform](https://github.com/RealMiLyfe/MiLyfe-Platform/issues/11) | 23 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -165 | Unverified | [Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway](https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/3) | 23 comments | fewer than 10 stars, repository is under 180 days old, high competition |
