@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 4 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16472) | 19 comments | high competition |
-| -14 | Unverified | [iflytek/domux](https://github.com/iflytek/domux/issues/20) | 5 comments | repository is under 180 days old |
-| -43 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1222) | 9 comments | repository is under 180 days old |
-| -59 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/386) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -59 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/380) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -59 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/385) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -61 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/176) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -65 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/177) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -65 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/175) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -67 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/378) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -69 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/181) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -76 | $600 | [theselfish/SlopStation13](https://github.com/theselfish/SlopStation13/issues/5) | 8 comments | fewer than 10 stars, repository is under 180 days old |
-| -88 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/391) | 4 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/405) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/212) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -92 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/404) | 5 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -96 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/394) | 6 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -100 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/208) | 7 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -100 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/209) | 7 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -3826 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 969 comments | repository is under 180 days old, high competition |
+| -47 | $1,200 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/952) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/743) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -63 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/364) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | Unverified | [quicksilverj2/openbuild-gallery](https://github.com/quicksilverj2/openbuild-gallery/issues/3) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -67 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/361) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -67 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/365) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -67 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/366) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -67 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/363) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -71 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/362) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/190) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/186) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -77 | Unverified | [Hazyshades/Sendly-Test-Repo](https://github.com/Hazyshades/Sendly-Test-Repo/issues/189) | 7 comments | fewer than 10 stars, repository is under 180 days old |
+| -78 | $1,200 | [s6pa1rta3n-lab/universal_bounty_fleet](https://github.com/s6pa1rta3n-lab/universal_bounty_fleet/issues/1) | 4 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
+| -96 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/171) | 6 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
+| -96 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/54) | 6 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
+| -120 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/927) | 22 comments | repository is under 180 days old, high competition |
+| -134 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/8) | 9 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old, issue already assigned |
+| -140 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/870) | 27 comments | repository is under 180 days old, high competition |
+| -524 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/773) | 123 comments | repository is under 180 days old, high competition |
+| -3998 | $1 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/330) | 1012 comments | repository is under 180 days old, high competition |
