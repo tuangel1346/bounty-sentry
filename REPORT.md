@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 90 | $35,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/54016) | 5 comments | issue already assigned |
-| 82 | $5,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/55130) | 7 comments | issue already assigned |
-| 76 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1640) | 1 comments | repository is under 180 days old |
-| 25 | $7,500 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/56277) | 15 comments | issue already assigned, high competition |
-| 16 | $500 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/56290) | 11 comments | issue already assigned, high competition |
-| -49 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1057) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -49 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1061) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -49 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1058) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | $50 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1518) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -74 | $50 | [maaltarifi97-maker/aioa-playground](https://github.com/maaltarifi97-maker/aioa-playground/issues/1) | 6 comments | fewer than 10 stars, repository is under 180 days old |
-| -101 | Unverified | [Bitcoindefi/OpenAO](https://github.com/Bitcoindefi/OpenAO/issues/13) | 7 comments | repository is a fork, fewer than 10 stars, repository is under 180 days old |
-| -133 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1528) | 47 comments | repository is under 180 days old, high competition |
-| -164 | $700 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1332) | 26 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -168 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16863) | 62 comments | high competition |
-| -170 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/830) | 25 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -190 | $3 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/391) | 60 comments | repository is under 180 days old, high competition |
-| -210 | $8 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/389) | 65 comments | repository is under 180 days old, high competition |
-| -214 | $500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333) | 38 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -251 | $850 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334) | 48 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -401 | $100 | [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5/issues/9) | 113 comments | repository is under 180 days old, high competition |
+| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1661) | 1 comments | repository is under 180 days old |
+| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1650) | 1 comments | repository is under 180 days old |
+| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1655) | 1 comments | repository is under 180 days old |
+| 74 | $5,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/55130) | 9 comments | issue already assigned |
+| 72 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1652) | 2 comments | repository is under 180 days old |
+| 72 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1651) | 2 comments | repository is under 180 days old |
+| 72 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1654) | 2 comments | repository is under 180 days old |
+| 64 | $5 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/53787) | 4 comments | issue already assigned |
+| 63 | Unverified | [commaai/openpilot](https://github.com/commaai/openpilot/issues/38752) | 3 comments | issue already assigned |
+| 3 | Unverified | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/1640) | 13 comments | repository is under 180 days old, high competition |
+| -49 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1097) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1091) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | $50 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1518) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -81 | $5,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1185) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -113 | $1,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/973) | 14 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -114 | $16 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/390) | 41 comments | repository is under 180 days old, high competition |
+| -135 | $50 | [maaltarifi97-maker/aioa-playground](https://github.com/maaltarifi97-maker/aioa-playground/issues/1) | 15 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -202 | $500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333) | 35 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -234 | $8 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/389) | 71 comments | repository is under 180 days old, high competition |
+| -277 | $100 | [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5/issues/9) | 82 comments | repository is under 180 days old, high competition |
