@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| -46 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/680) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -46 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/694) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -46 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/699) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/693) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/697) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/684) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/695) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/698) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/688) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/691) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/683) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/701) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/750) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/712) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/689) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/686) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/696) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/690) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/678) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/716) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| 64 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1231) | 1 comments | None detected |
+| 21 | $3,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/56908) | 16 comments | issue already assigned, high competition |
+| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/733) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/815) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/757) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/762) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/796) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/814) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/792) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/772) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/809) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/801) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/819) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/753) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/727) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/726) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/754) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/736) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -70 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/824) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -70 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/768) | 6 comments | fewer than 10 stars, repository is under 180 days old |
