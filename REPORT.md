@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 89 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16984) | 4 comments | None detected |
-| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2525) | 1 comments | repository is under 180 days old |
-| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2523) | 1 comments | repository is under 180 days old |
-| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2524) | 1 comments | repository is under 180 days old |
-| -2 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1531) | 0 comments | repository is under 180 days old |
-| -39 | Unverified | [ditto-assistant/ditto-subnet](https://github.com/ditto-assistant/ditto-subnet/issues/2054) | 6 comments | repository is under 180 days old |
-| -44 | $500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1509) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -51 | Unverified | [ditto-assistant/ditto-subnet](https://github.com/ditto-assistant/ditto-subnet/issues/2044) | 9 comments | repository is under 180 days old |
-| -51 | Unverified | [ditto-assistant/ditto-subnet](https://github.com/ditto-assistant/ditto-subnet/issues/2046) | 9 comments | repository is under 180 days old |
-| -57 | Unverified | [OmniBlocks/Boxy-gh](https://github.com/OmniBlocks/Boxy-gh/issues/147) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -73 | $90 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1292) | 8 comments | fewer than 10 stars, repository is under 180 days old |
-| -80 | Unverified | [ditto-assistant/ditto-subnet](https://github.com/ditto-assistant/ditto-subnet/issues/2047) | 10 comments | repository is under 180 days old, high competition |
-| -91 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1388) | 16 comments | repository is under 180 days old, high competition |
-| -106 | $0 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
-| -136 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1257) | 10 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
-| -148 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/727) | 13 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
-| -156 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/763) | 15 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
-| -168 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/762) | 18 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
-| -190 | $2 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/476) | 60 comments | repository is under 180 days old, high competition |
-| -216 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16863) | 74 comments | high competition |
+| 72 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2593) | 2 comments | repository is under 180 days old |
+| 69 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1271) | 0 comments | None detected |
+| 68 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2525) | 3 comments | repository is under 180 days old |
+| 68 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2524) | 3 comments | repository is under 180 days old |
+| 68 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2523) | 3 comments | repository is under 180 days old |
+| 61 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1270) | 2 comments | None detected |
+| 25 | $3,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/56908) | 15 comments | issue already assigned, high competition |
+| -14 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1531) | 3 comments | repository is under 180 days old |
+| -20 | $750 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1703) | 3 comments | repository is under 180 days old |
+| -24 | Unverified | [AstralDeep/AstralPlane](https://github.com/AstralDeep/AstralPlane/issues/22) | 1 comments | fewer than 10 stars |
+| -31 | $2 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1697) | 4 comments | repository is under 180 days old |
+| -31 | $2 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1698) | 4 comments | repository is under 180 days old |
+| -35 | $99 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1634) | 5 comments | repository is under 180 days old |
+| -45 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1221) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [AstralDeep/LETS](https://github.com/AstralDeep/LETS/issues/69) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | Unverified | [AstralDeep/AstralPrimitives](https://github.com/AstralDeep/AstralPrimitives/issues/14) | 4 comments | fewer than 10 stars, repository is under 180 days old |
+| -92 | $0 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660) | 13 comments | repository is under 180 days old, high competition |
+| -140 | $99 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1635) | 25 comments | repository is under 180 days old, high competition |
+| -220 | Unverified | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/16863) | 75 comments | high competition |
+| -590 | $2 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/476) | 160 comments | repository is under 180 days old, high competition |
