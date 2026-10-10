@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 57 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1291) | 3 comments | None detected |
-| -15 | $1,200 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1300) | 3 comments | repository is under 180 days old |
-| -17 | $3,000 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1589) | 8 comments | repository is under 180 days old |
-| -20 | $750 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1703) | 3 comments | repository is under 180 days old |
-| -24 | $1,100 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1303) | 5 comments | repository is under 180 days old |
-| -26 | $500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1509) | 4 comments | repository is under 180 days old |
-| -26 | $950 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1302) | 5 comments | repository is under 180 days old |
-| -26 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/272) | 1 comments | fewer than 10 stars |
-| -26 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/273) | 1 comments | fewer than 10 stars |
-| -26 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/274) | 1 comments | fewer than 10 stars |
-| -27 | $2 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1697) | 3 comments | repository is under 180 days old |
-| -28 | $1,500 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1301) | 7 comments | repository is under 180 days old |
-| -29 | $1,400 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1304) | 7 comments | repository is under 180 days old |
-| -30 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/271) | 2 comments | fewer than 10 stars |
-| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/346) | 3 comments | fewer than 10 stars |
-| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/347) | 3 comments | fewer than 10 stars |
-| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/349) | 3 comments | fewer than 10 stars |
-| -38 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/311) | 4 comments | fewer than 10 stars |
-| -38 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/326) | 4 comments | fewer than 10 stars |
-| -92 | $0 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660) | 13 comments | repository is under 180 days old, high competition |
+| 94 | $3,000 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/59732) | 4 comments | issue already assigned |
+| 52 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/2988) | 7 comments | repository is under 180 days old |
+| 49 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1285) | 5 comments | None detected |
+| 37 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1258) | 8 comments | None detected |
+| 33 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1291) | 9 comments | None detected |
+| 4 | Unverified | [SPLURT-Station/S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1292) | 10 comments | high competition |
+| -6 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1632) | 1 comments | repository is under 180 days old |
+| -30 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/319) | 2 comments | fewer than 10 stars |
+| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/316) | 3 comments | fewer than 10 stars |
+| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/320) | 3 comments | fewer than 10 stars |
+| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/321) | 3 comments | fewer than 10 stars |
+| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/322) | 3 comments | fewer than 10 stars |
+| -34 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/323) | 3 comments | fewer than 10 stars |
+| -38 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/317) | 4 comments | fewer than 10 stars |
+| -38 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/318) | 4 comments | fewer than 10 stars |
+| -38 | Unverified | [AstralDeep/AstralDeep](https://github.com/AstralDeep/AstralDeep/issues/324) | 4 comments | fewer than 10 stars |
+| -49 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1269) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -109 | $650 | [Senthemodder/aquarium-of-gullibles](https://github.com/Senthemodder/aquarium-of-gullibles/issues/3) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -139 | Unverified | [sharmiaalono/go-github](https://github.com/sharmiaalono/go-github/issues/5) | 16 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -934 | $2 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/476) | 246 comments | repository is under 180 days old, high competition |
