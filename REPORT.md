@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
+| 80 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/3431) | 0 comments | repository is under 180 days old |
+| 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/3430) | 1 comments | repository is under 180 days old |
 | 76 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/3332) | 1 comments | repository is under 180 days old |
-| 9 | $30 | [verdikta/verdikta-applications](https://github.com/verdikta/verdikta-applications/issues/76) | 6 comments | None detected |
-| -18 | Unverified | [NSPG13/agent-bounties](https://github.com/NSPG13/agent-bounties/issues/1632) | 4 comments | repository is under 180 days old |
-| -20 | $105 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912) | 2 comments | repository is under 180 days old |
-| -21 | $75 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903) | 2 comments | repository is under 180 days old |
-| -24 | $125 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911) | 3 comments | repository is under 180 days old |
-| -29 | $75 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900) | 4 comments | repository is under 180 days old |
-| -32 | $150 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891) | 5 comments | repository is under 180 days old |
-| -36 | $105 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913) | 6 comments | repository is under 180 days old |
-| -40 | $105 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914) | 7 comments | repository is under 180 days old |
+| 48 | $50 | [sybil-solutions/local-ai-registry](https://github.com/sybil-solutions/local-ai-registry/issues/219) | 8 comments | repository is under 180 days old |
+| -20 | $125 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911) | 2 comments | repository is under 180 days old |
+| -21 | $90 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909) | 2 comments | repository is under 180 days old |
+| -29 | $90 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908) | 4 comments | repository is under 180 days old |
+| -33 | $75 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1900) | 5 comments | repository is under 180 days old |
+| -36 | $125 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910) | 6 comments | repository is under 180 days old |
 | -40 | $105 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915) | 7 comments | repository is under 180 days old |
-| -48 | Unverified | [Uuriko/project-room](https://github.com/Uuriko/project-room/issues/3704) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | Unverified | [Element-Ventures-Canada-Ltd/openchokepoint](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/17) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -61 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1350) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -94 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1373) | 6 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -94 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1377) | 6 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -97 | $75 | [uvsmtid/protoprimer](https://github.com/uvsmtid/protoprimer/issues/143) | 16 comments | issue already assigned, high competition |
-| -102 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1375) | 8 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -106 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1368) | 9 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -135 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1364) | 10 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -45 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1300) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -51 | Unverified | [zsxh1990/pr-genius](https://github.com/zsxh1990/pr-genius/issues/102) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -52 | Unverified | [Uuriko/project-room](https://github.com/Uuriko/project-room/issues/3709) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1353) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [odiseo159-beep/mergit](https://github.com/odiseo159-beep/mergit/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [Element-Ventures-Canada-Ltd/openchokepoint](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -65 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1357) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -110 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1378) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -135 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1416) | 10 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
+| -168 | Unverified | [Element-Ventures-Canada-Ltd/openchokepoint](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/3) | 17 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned, high competition |
