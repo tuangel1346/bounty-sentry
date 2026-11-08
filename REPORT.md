@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 51 | $750 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/64575) | 9 comments | issue already assigned |
-| 43 | Unverified | [tari-project/universe](https://github.com/tari-project/universe/issues/3489) | 2 comments | None detected |
-| -40 | $1,000 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/46) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -41 | $950 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/45) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -41 | $900 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/44) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -42 | $800 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/47) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -42 | $600 | [WholeTroutMedia/agent-conformance-quarantine](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -42 | $600 | [WholeTroutMedia/protocol-conformance-relay](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -44 | $650 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/17) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -46 | $400 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/7) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -46 | $850 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/21) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -47 | $350 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/16) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -48 | $450 | [WholeTroutMedia/agent-conformance-quarantine](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -48 | $450 | [WholeTroutMedia/protocol-conformance-relay](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | $600 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -52 | $450 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | $600 | [IES-BoilerRoom/asyncpg-savepoint-harness](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | $600 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/2) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $450 | [IES-BoilerRoom/asyncpg-savepoint-harness](https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $450 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/4572) | 0 comments | None detected |
+| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/4571) | 0 comments | None detected |
+| 63 | $2 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/574) | 3 comments | repository is under 180 days old |
+| 32 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17180) | 12 comments | high competition |
+| 27 | Unverified | [tari-project/universe](https://github.com/tari-project/universe/issues/3518) | 6 comments | None detected |
+| 20 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17182) | 15 comments | high competition |
+| 19 | Unverified | [tari-project/universe](https://github.com/tari-project/universe/issues/3492) | 8 comments | None detected |
+| -6 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276) | 0 comments | repository is under 180 days old |
+| -6 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274) | 0 comments | repository is under 180 days old |
+| -8 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277) | 0 comments | repository is under 180 days old |
+| -8 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275) | 0 comments | repository is under 180 days old |
+| -20 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1360) | 0 comments | fewer than 10 stars |
+| -20 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1359) | 0 comments | fewer than 10 stars |
+| -40 | $1,400 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -47 | $1,100 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/49) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | $500 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/9) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | $1,200 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $450 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/5) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -55 | $750 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -123 | Unverified | [Element-Ventures-Canada-Ltd/openchokepoint](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19) | 12 comments | fewer than 10 stars, repository is under 180 days old, high competition |
