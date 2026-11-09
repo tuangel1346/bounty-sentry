@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/4572) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/4571) | 0 comments | None detected |
-| 63 | $2 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board/issues/574) | 3 comments | repository is under 180 days old |
-| 32 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17180) | 12 comments | high competition |
-| 27 | Unverified | [tari-project/universe](https://github.com/tari-project/universe/issues/3518) | 6 comments | None detected |
-| 20 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17182) | 15 comments | high competition |
-| 19 | Unverified | [tari-project/universe](https://github.com/tari-project/universe/issues/3492) | 8 comments | None detected |
-| -6 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276) | 0 comments | repository is under 180 days old |
-| -6 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274) | 0 comments | repository is under 180 days old |
-| -8 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277) | 0 comments | repository is under 180 days old |
-| -8 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275) | 0 comments | repository is under 180 days old |
-| -20 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1360) | 0 comments | fewer than 10 stars |
-| -20 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1359) | 0 comments | fewer than 10 stars |
-| -40 | $1,400 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -47 | $1,100 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/49) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -49 | $500 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/9) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -50 | $1,200 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/48) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | $450 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/5) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -55 | $750 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -123 | Unverified | [Element-Ventures-Canada-Ltd/openchokepoint](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19) | 12 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| 16 | Unverified | [hanzoai/ai](https://github.com/hanzoai/ai/issues/136) | 1 comments | None detected |
+| 12 | Unverified | [hanzoai/ai](https://github.com/hanzoai/ai/issues/137) | 2 comments | None detected |
+| 8 | Unverified | [hanzoai/ai](https://github.com/hanzoai/ai/issues/138) | 3 comments | None detected |
+| -44 | $600 | [IES-BoilerRoom/cuda-warp-allreduce-verifier](https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -44 | $600 | [IES-BoilerRoom/mlir-tensor-tiling-pass](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -44 | $600 | [IES-BoilerRoom/ebpf-verifier-reg-bounds](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -44 | $600 | [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -44 | $600 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -46 | $450 | [IES-BoilerRoom/cuda-warp-allreduce-verifier](https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -46 | $450 | [IES-BoilerRoom/mlir-tensor-tiling-pass](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -46 | $600 | [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -46 | $450 | [IES-BoilerRoom/mcp-sse-frame-conformance](https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -46 | $450 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -48 | $450 | [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | $450 | [IES-BoilerRoom/ebpf-verifier-reg-bounds](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | $600 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | $600 | [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -52 | $450 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -56 | $450 | [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -61 | Unverified | [alfrexo95/bounty-bot](https://github.com/alfrexo95/bounty-bot/issues/64) | 3 comments | fewer than 10 stars, repository is under 180 days old |
