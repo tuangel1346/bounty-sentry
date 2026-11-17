@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 22 | $750 | [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal/issues/64575) | 10 comments | issue already assigned, high competition |
-| -12 | $1 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4368) | 0 comments | repository is under 180 days old |
+| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5190) | 0 comments | None detected |
+| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5191) | 0 comments | None detected |
+| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5192) | 0 comments | None detected |
+| 0 | Unverified | [hanzoai/engine](https://github.com/hanzoai/engine/issues/95) | 3 comments | None detected |
+| 0 | Unverified | [hanzoai/engine](https://github.com/hanzoai/engine/issues/97) | 3 comments | None detected |
+| -10 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369) | 1 comments | repository is under 180 days old |
+| -10 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221) | 1 comments | repository is under 180 days old |
+| -12 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370) | 1 comments | repository is under 180 days old |
 | -18 | $600 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223) | 3 comments | repository is under 180 days old |
-| -24 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1396) | 1 comments | fewer than 10 stars |
+| -20 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222) | 3 comments | repository is under 180 days old |
 | -24 | $450 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224) | 4 comments | repository is under 180 days old |
-| -49 | $1 | [alfrexo95/bounty-bot](https://github.com/alfrexo95/bounty-bot/issues/92) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | Unverified | [MicahHeneveld/bros-analysis](https://github.com/MicahHeneveld/bros-analysis/issues/6) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -54 | $600 | [WholeTroutMedia/protocol-conformance-relay](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $450 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $600 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/2) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -57 | Unverified | [MicahHeneveld/bros-analysis](https://github.com/MicahHeneveld/bros-analysis/issues/4) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -57 | Unverified | [MicahHeneveld/bros-analysis](https://github.com/MicahHeneveld/bros-analysis/issues/5) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | $600 | [WholeTroutMedia/agent-conformance-quarantine](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -60 | $450 | [WholeTroutMedia/protocol-conformance-relay](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -62 | $450 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/1) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -70 | $600 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -72 | $450 | [WholeTroutMedia/agent-conformance-quarantine](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -81 | Unverified | [coreguard-global/CoreGuard](https://github.com/coreguard-global/CoreGuard/issues/54) | 3 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
-| -103 | $250 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152) | 17 comments | repository is under 180 days old, high competition |
-| -141 | $100 | [overturn-ai/overturn](https://github.com/overturn-ai/overturn/issues/22) | 18 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -24 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1404) | 1 comments | fewer than 10 stars |
+| -44 | $600 | [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -46 | $450 | [IES-BoilerRoom/wgsl-transcendental-math-core](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | $450 | [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | Unverified | [janzeerOrg/janzeer-cli](https://github.com/janzeerOrg/janzeer-cli/issues/8) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -68 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1895) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -68 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1894) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -156 | $100 | [overturn-ai/overturn](https://github.com/overturn-ai/overturn/issues/22) | 22 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| -160 | $150 | [overturn-ai/overturn](https://github.com/overturn-ai/overturn/issues/20) | 23 comments | fewer than 10 stars, repository is under 180 days old, high competition |
