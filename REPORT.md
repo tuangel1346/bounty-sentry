@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| -37 | Unverified | [zoo-apps/gym](https://github.com/zoo-apps/gym/issues/6) | 3 comments | fewer than 10 stars |
-| -48 | $200 | [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
-| -51 | $350 | [IES-BoilerRoom/pcie-tlp-credit-flow-gate](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -52 | $200 | [IES-BoilerRoom/wgsl-transcendental-math-core](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | $150 | [IES-BoilerRoom/wgsl-transcendental-math-core](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -53 | $100 | [IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -55 | Unverified | [hanzoai/graph](https://github.com/hanzoai/graph/issues/3) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $200 | [IES-BoilerRoom/tcp-bbrv3-pacing-verifier](https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $225 | [IES-BoilerRoom/rfc9421-http-signature-gateway](https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $225 | [IES-BoilerRoom/pcie-tlp-credit-flow-gate](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -56 | $225 | [IES-BoilerRoom/MoveVM-bytecode-ability-checker](https://github.com/IES-BoilerRoom/MoveVM-bytecode-ability-checker/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -59 | $300 | [IES-BoilerRoom/rfc9421-http-signature-gateway](https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -61 | $300 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -61 | $100 | [IES-BoilerRoom/MoveVM-bytecode-ability-checker](https://github.com/IES-BoilerRoom/MoveVM-bytecode-ability-checker/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
-| -65 | $175 | [IES-BoilerRoom/tcp-bbrv3-pacing-verifier](https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/1) | 4 comments | fewer than 10 stars, repository is under 180 days old |
-| -68 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1919) | 6 comments | fewer than 10 stars, repository is under 180 days old |
-| -69 | $150 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/2) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -73 | $100 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/1) | 6 comments | fewer than 10 stars, repository is under 180 days old |
-| -74 | $225 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -101 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1997) | 8 comments | fewer than 10 stars, repository is under 180 days old, issue already assigned |
+| 4 | Unverified | [hanzoai/engine](https://github.com/hanzoai/engine/issues/69) | 2 comments | None detected |
+| 0 | Unverified | [hanzoai/engine](https://github.com/hanzoai/engine/issues/92) | 3 comments | None detected |
+| 0 | Unverified | [hanzoai/engine](https://github.com/hanzoai/engine/issues/94) | 3 comments | None detected |
+| -32 | Unverified | [hanzoai/index](https://github.com/hanzoai/index/issues/12) | 3 comments | fewer than 10 stars |
+| -40 | $20 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/118) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | $20 | [ADT-community/adt-community.github.io](https://github.com/ADT-community/adt-community.github.io/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | $20 | [ADT-community/adt-community.github.io](https://github.com/ADT-community/adt-community.github.io/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -50 | $1,250 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/73) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -53 | $20 | [ADT-community/adt-community.github.io](https://github.com/ADT-community/adt-community.github.io/issues/12) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/trans_sport](https://github.com/ADT-community/trans_sport/issues/5) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/locallity_ai](https://github.com/ADT-community/locallity_ai/issues/4) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/trans_sport](https://github.com/ADT-community/trans_sport/issues/8) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/locallity_ai](https://github.com/ADT-community/locallity_ai/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/trans_sport](https://github.com/ADT-community/trans_sport/issues/9) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/trans_sport](https://github.com/ADT-community/trans_sport/issues/26) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/locallity_ai](https://github.com/ADT-community/locallity_ai/issues/3) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $20 | [ADT-community/locallity_ai](https://github.com/ADT-community/locallity_ai/issues/28) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | $20 | [ADT-community/content_feed](https://github.com/ADT-community/content_feed/issues/4) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | $20 | [ADT-community/ADT_agent](https://github.com/ADT-community/ADT_agent/issues/2) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -66 | $20 | [ADT-community/ADT_agent](https://github.com/ADT-community/ADT_agent/issues/3) | 4 comments | fewer than 10 stars, repository is under 180 days old |
