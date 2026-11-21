@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5463) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5373) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5372) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5359) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5368) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5367) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5455) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5356) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5458) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5457) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5366) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5365) | 0 comments | None detected |
-| 97 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5460) | 2 comments | None detected |
-| 93 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5459) | 3 comments | None detected |
-| 93 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5462) | 3 comments | None detected |
-| 89 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5461) | 4 comments | None detected |
-| 89 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/4999) | 4 comments | None detected |
-| -54 | $420 | [theselfish/SlopStation13](https://github.com/theselfish/SlopStation13/issues/40) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -72 | Unverified | [OphirPay/OphirPay](https://github.com/OphirPay/OphirPay/issues/1919) | 7 comments | fewer than 10 stars, repository is under 180 days old |
-| -104 | $20 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/118) | 10 comments | fewer than 10 stars, repository is under 180 days old, high competition |
+| 72 | Unverified | [riteshbonthalakoti/HELPDESK.AI](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4193) | 2 comments | issue already assigned |
+| 64 | Unverified | [riteshbonthalakoti/HELPDESK.AI](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4192) | 4 comments | issue already assigned |
+| -12 | $1 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381) | 0 comments | repository is under 180 days old |
+| -12 | $2 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380) | 0 comments | repository is under 180 days old |
+| -43 | $2 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/161) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -43 | $1 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/158) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -43 | $2 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/159) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/7) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/53) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/55) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/52) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/51) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/11) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/54) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/3) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/13) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/56) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/10) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/15) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/14) | 3 comments | fewer than 10 stars, repository is under 180 days old |
