@@ -4,23 +4,23 @@ Scores are triage signals, not payment guarantees.
 
 | Score | Reward | Repository | Competition | Warnings |
 |---:|---:|---|---:|---|
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5373) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5359) | 0 comments | None detected |
-| 105 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5363) | 0 comments | None detected |
-| 101 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5643) | 1 comments | None detected |
-| 101 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5641) | 1 comments | None detected |
-| 101 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5642) | 1 comments | None detected |
-| 97 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5645) | 2 comments | None detected |
-| 97 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5644) | 2 comments | None detected |
-| 93 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/5567) | 3 comments | None detected |
-| 89 | $0 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet/issues/4999) | 4 comments | None detected |
-| 4 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17181) | 19 comments | high competition |
-| -12 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17180) | 23 comments | high competition |
-| -20 | $2 | [zhangjiayang6835-cyber/bounty-plaza](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380) | 2 comments | repository is under 180 days old |
-| -24 | Unverified | [relayhop/sn-monetization-runtime](https://github.com/relayhop/sn-monetization-runtime/issues/1440) | 1 comments | fewer than 10 stars |
-| -32 | $0 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties/issues/17182) | 28 comments | high competition |
-| -54 | $0 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113) | 1 comments | fewer than 10 stars, repository is under 180 days old |
-| -58 | $0 | [PhanKhoa95/oss-bot-trap-benchmark](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115) | 2 comments | fewer than 10 stars, repository is under 180 days old |
-| -63 | $2 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/159) | 6 comments | fewer than 10 stars, repository is under 180 days old |
-| -70 | Unverified | [tradermarketcap/tradermarketcap-open](https://github.com/tradermarketcap/tradermarketcap-open/issues/4) | 5 comments | fewer than 10 stars, repository is under 180 days old |
-| -71 | $1 | [Fractal-Neurons/pacta](https://github.com/Fractal-Neurons/pacta/issues/158) | 8 comments | fewer than 10 stars, repository is under 180 days old |
+| -47 | $350 | [IES-BoilerRoom/grpc-http2-hpack-framing](https://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -48 | $250 | [IES-BoilerRoom/cpython-pep626-line-profiler](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -48 | $250 | [IES-BoilerRoom/grpc-http2-hpack-framing](https://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | $175 | [IES-BoilerRoom/zk-plonk-transcript-verifier](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -49 | $125 | [IES-BoilerRoom/cpython-pep626-line-profiler](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1) | 0 comments | fewer than 10 stars, repository is under 180 days old |
+| -51 | $300 | [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [incidere/solana-agent-bounties](https://github.com/incidere/solana-agent-bounties/issues/8) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | Unverified | [incidere/solana-agent-bounties](https://github.com/incidere/solana-agent-bounties/issues/9) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $75 | [IES-BoilerRoom/zk-plonk-transcript-verifier](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/2) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -54 | $75 | [IES-BoilerRoom/vllm-paged-kv-verifier](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1) | 1 comments | fewer than 10 stars, repository is under 180 days old |
+| -56 | $200 | [IES-BoilerRoom/tcp-bbrv3-pacing-verifier](https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/2) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -57 | $175 | [IES-BoilerRoom/bgp-med-oscillation-verifier](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [incidere/solana-agent-bounties](https://github.com/incidere/solana-agent-bounties/issues/7) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -58 | Unverified | [incidere/solana-agent-bounties](https://github.com/incidere/solana-agent-bounties/issues/6) | 2 comments | fewer than 10 stars, repository is under 180 days old |
+| -61 | $175 | [IES-BoilerRoom/tcp-bbrv3-pacing-verifier](https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/1) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -62 | $75 | [IES-BoilerRoom/bgp-med-oscillation-verifier](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2) | 3 comments | fewer than 10 stars, repository is under 180 days old |
+| -67 | $150 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -69 | $150 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/2) | 5 comments | fewer than 10 stars, repository is under 180 days old |
+| -73 | $100 | [IES-BoilerRoom/Furnace](https://github.com/IES-BoilerRoom/Furnace/issues/1) | 6 comments | fewer than 10 stars, repository is under 180 days old |
+| -116 | $175 | [IES-BoilerRoom/protocol-conformance-relay](https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2) | 11 comments | fewer than 10 stars, repository is under 180 days old, high competition |
